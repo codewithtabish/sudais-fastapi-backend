@@ -1,0 +1,7 @@
+{
+  "python.sortImports.path": "venv\\Scripts\\isort.exe",
+  "python.sortImports.args": ["--profile", "black"],
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  }
+}

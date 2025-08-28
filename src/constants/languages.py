@@ -1,0 +1,34 @@
+# Single source of truth for supported languages (full names)
+languages = [
+    'English',        # en
+    'Spanish',        # es
+    'French',         # fr
+    'German',         # de
+    'Italian',        # it
+    'Portuguese',     # pt
+    'Russian',        # ru
+    'Japanese',       # ja
+    'Korean',         # ko
+    'Arabic',         # ar
+    'Chinese',        # zh
+    'Hindi',          # hi
+    'Bengali',        # bn
+    'Punjabi',        # pa
+    'Vietnamese',     # vi
+    'Indonesian',     # id
+    'Turkish',        # tr
+    'Persian',        # fa
+    'Tamil',          # ta
+    'Telugu',         # te
+    'Marathi',        # mr
+    'Urdu',           # ur
+    'Swahili',        # sw
+    'Thai',           # th
+    'Malay',          # ms
+    'Gujarati',       # gu
+    'Kannada',        # kn
+    'Malayalam',      # ml
+    'Odia',           # or
+    'Sinhala',        # si
+    'Pashto'          # ps
+]

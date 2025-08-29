@@ -32,3 +32,39 @@ languages = [
     'Sinhala',        # si
     'Pashto'          # ps
 ]
+
+
+
+language_codes = [
+    'en',  # English
+    'es',  # Spanish
+    'fr',  # French
+    'de',  # German
+    'it',  # Italian
+    'pt',  # Portuguese
+    'ru',  # Russian
+    'ja',  # Japanese
+    'ko',  # Korean
+    'ar',  # Arabic
+    'zh',  # Chinese
+    'hi',  # Hindi
+    'bn',  # Bengali
+    'pa',  # Punjabi
+    'vi',  # Vietnamese
+    'id',  # Indonesian
+    'tr',  # Turkish
+    'fa',  # Persian
+    'ta',  # Tamil
+    'te',  # Telugu
+    'mr',  # Marathi
+    'ur',  # Urdu
+    'sw',  # Swahili
+    'th',  # Thai
+    'ms',  # Malay
+    'gu',  # Gujarati
+    'kn',  # Kannada
+    'ml',  # Malayalam
+    'or',  # Odia
+    'si',  # Sinhala
+    'ps'   # Pashto
+]

@@ -12,6 +12,7 @@ class PersonalInfo(BaseModel):
         default='Android, React Native & backend developer. Passionate about building and automating modern solutions. ...'
     )
     local: str = Field(default='English', description='language code')
+    image_url:str=Field(default="https://randomuser.me/api/portraits/men/1.jpg?utm_source=chatgpt.com",description="Profile image URL")
 
     @field_validator('local')
     def check_language_exists(cls, passed_language):
@@ -24,6 +25,8 @@ class Translation(BaseModel):
     language: str  # use str instead of Literal if Literal[*languages] fails
     name: str
     short_info: str
+    image_url: str
+
 
 # Model for full response
 class PersonalTranslationResponse(BaseModel):

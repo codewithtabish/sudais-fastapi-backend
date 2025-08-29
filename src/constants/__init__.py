@@ -1,1 +1,1 @@
-from .languages import languages
+from .languages import language_codes, languages
